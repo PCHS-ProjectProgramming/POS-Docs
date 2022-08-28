@@ -1,10 +1,21 @@
-site_name: Android-POS Docs
+site_name: "POS-Docs: Documentation for PCHS Android POS"
+site_url: https://pchs-projectprogramming.github.io/POS-Docs/
+site_author: "PCHS-ProjectProgramming 22/23"
+copyright: Copyright &copy; 2022 - 2023 PCHS Project
 
 extra_css:
   - stylesheets/extra.css
-
 theme:
-  name: mkdocs
+  name: material
+  custom_dir: docs/overrides
+  features:
+    - navigation.sections
+    - navigation.instant
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  logo:
+  favicon:
 
 palette:
   scheme: slate
