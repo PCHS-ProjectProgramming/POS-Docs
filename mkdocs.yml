@@ -14,8 +14,8 @@ theme:
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
-  logo: 'assets/PCHS Logo.png'
-  favicon: 'assets/PCHS Logo.png'
+  logo: 'assets/favicon.ico'
+  favicon: 'assets/favicon.ico'
 
 palette:
   scheme: slate
