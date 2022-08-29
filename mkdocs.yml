@@ -14,8 +14,8 @@ theme:
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
-  logo:
-  favicon:
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
 
 extra:
   homepage: https://PCHS-ProjectProgramming.github.io/POS-Docs
