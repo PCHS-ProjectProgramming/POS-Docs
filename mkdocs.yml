@@ -25,3 +25,8 @@ extra:
   - icon: fontawesome/brands/discord
     link: https://discord.gg/K9ueFm8a2P
 
+nav:
+  - Home: https://PCHS-ProjectProgramming.github.io/POS-Docs
+  - Documentation: /docs/
+  - Github: https://github.com/PCHS-ProjectProgramming
+  # Populate Nav Eventually
