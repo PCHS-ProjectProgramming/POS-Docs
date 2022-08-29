@@ -16,7 +16,12 @@ theme:
   search_index_only: true
   logo:
   favicon:
-palette:
-  scheme: slate
-  primary: black
-  accent: red
+
+extra:
+  homepage: https://PCHS-ProjectProgramming.github.io/POS-Docs
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/PCHS-ProjectProgramming/Android-POS
+  - icon: fontawesome/brands/discord
+    link: https://discord.gg/K9ueFm8a2P
+
