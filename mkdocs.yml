@@ -25,7 +25,7 @@ extra:
   - icon: fontawesome/brands/discord
     link: https://discord.gg/K9ueFm8a2P
   - icon: fontawesome/brands/usb
-    link: docs/secrets/natalie.html
+    link: secrets/natalie.html
 
 nav:
   - Home: https://PCHS-ProjectProgramming.github.io/POS-Docs
