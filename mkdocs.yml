@@ -27,6 +27,11 @@ extra:
   - icon: fontawesome/brands/usb
     link: secrets/natalie.html
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: https://PCHS-ProjectProgramming.github.io/POS-Docs
   - Documentation:
