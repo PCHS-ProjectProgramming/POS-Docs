@@ -15,7 +15,7 @@ theme:
   include_search_page: false
   search_index_only: true
   logo: assets/site-assets/favicon.png
-  site-assets/: assets/site-assets/favicon.png
+  favicon: assets/site-assets/favicon.png
 
 extra:
   homepage: https://PCHS-ProjectProgramming.github.io/POS-Docs
