@@ -7,7 +7,6 @@ extra_css:
   - stylesheets/extra.css
 theme:
   palette:
-    primary: green
     accent: red
   name: material
   custom_dir: docs/overrides
