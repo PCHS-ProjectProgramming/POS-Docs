@@ -6,6 +6,8 @@ copyright: Copyright &copy; 2022 - 2023 PCHS Project
 extra_css:
   - stylesheets/extra.css
 theme:
+  palette:
+    accent: red
   name: material
   custom_dir: docs/overrides
   features:
