@@ -43,7 +43,9 @@ nav:
       - 8-29-22.md: documentation/August/8-29-22.md
       - 8-30-22.md: documentation/August/8-30-22.md
       - 8-31-22.md: documentation/August/8-31-22.md
-   # - September:
+    - September:
+      - 9-1-22.md: documentation/September/9-1-22.md
+      - 9-2-22.md: documentation/September/9-2-22.md
    # - October:
   - Extras:
     - Github: https://github.com/PCHS-ProjectProgramming
