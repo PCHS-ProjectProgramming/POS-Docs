@@ -55,7 +55,6 @@
   --md-typeset-kbd-border-color--override: var(--gray-800);
   --md-typeset-kbd-accent-color--override: var(--gray-700);
   
-  --md-typeset-a-color--override: var(--green);
 }
 
 .md-header, .md-tabs {
