@@ -38,13 +38,7 @@ nav:
   - Home: http://127.0.0.1:8000/POS-Docs/
   - Documentation:
     - August:
-      - 8-25-22.md: documentation/August/8-25-22.md
-      - 8-26-22.md: documentation/August/8-26-22.md
-      - 8-27-22.md: documentation/August/8-27-22.md
-      - 8-28-22.md: documentation/August/8-28-22.md
-      - 8-29-22.md: documentation/August/8-29-22.md
-      - 8-30-22.md: documentation/August/8-30-22.md
-      - 8-31-22.md: documentation/August/8-31-22.md
+      - Week Three: documentation/August/8-25-22 -- 8-31-22.md
     - September:
       - Week One: documentation/September/9-1-22 -- 9-9-22.md
       - Week Two: documentation/September/9-12-22 -- 9-15-22.md
