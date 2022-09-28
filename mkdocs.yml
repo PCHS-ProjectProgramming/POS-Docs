@@ -46,18 +46,9 @@ nav:
       - 8-30-22.md: documentation/August/8-30-22.md
       - 8-31-22.md: documentation/August/8-31-22.md
     - September:
-      - 9-1-22.md: documentation/September/9-1-22.md
-      - 9-2-22.md: documentation/September/9-2-22.md
-      - 9-6-22.md: documentation/September/9-6-22.md
-      - 9-7-22.md: documentation/September/9-7-22.md
-      - 9-8-22.md: documentation/September/9-8-22.md
-      - 9-9-22.md: documentation/September/9-9-22.md
-      - 9-12-22.md: documentation/September/9-12-22.md
-      - 9-13-22.md: documentation/September/9-13-22.md
-      - 9-14-22.md: documentation/September/9-14-22.md
-      - 9-15-22.md: documentation/September/9-15-22.md
-      - 9-20-22.md: documentation/September/9-20-22.md
-      - 9-21-22.md: documentation/September/9-21-22.md
+      - Week One: documentation/September/9-1-22 -- 9-9-22.md
+      - Week Two: documentation/September/9-12-22 -- 9-15-22.md
+      - Week Three: documentation/September/9-19-22 -- 9-23-22.md
    # - October:
   - Extras:
     - Github: https://github.com/PCHS-ProjectProgramming
