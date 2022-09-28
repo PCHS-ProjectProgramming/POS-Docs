@@ -35,7 +35,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Home: https://PCHS-ProjectProgramming.github.io/POS-Docs
+  - Home: http://127.0.0.1:8000/POS-Docs/
   - Documentation:
     - August:
       - 8-25-22.md: documentation/August/8-25-22.md
@@ -56,7 +56,8 @@ nav:
       - 9-13-22.md: documentation/September/9-13-22.md
       - 9-14-22.md: documentation/September/9-14-22.md
       - 9-15-22.md: documentation/September/9-15-22.md
-      - 9-19-22.md: documentation/September/9-19-22.md
+      - 9-20-22.md: documentation/September/9-20-22.md
+      - 9-21-22.md: documentation/September/9-21-22.md
    # - October:
   - Extras:
     - Github: https://github.com/PCHS-ProjectProgramming
