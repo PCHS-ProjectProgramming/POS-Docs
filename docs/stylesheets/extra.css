@@ -34,7 +34,7 @@
   --dark:          var(--gray-800);
 
 
-  --md-default-bg-color:        var(--gray-900);
+  --md-default-bg-color:        var(--gray-800);
   --md-default-fg-color:        var(--gray-500);
   --md-default-fg-color--light:        var(--gray-500);
   --md-default-fg-color--lighter:        var(--gray-300);
