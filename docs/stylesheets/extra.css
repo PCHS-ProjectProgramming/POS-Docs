@@ -34,7 +34,7 @@
   --dark:          var(--gray-800);
 
 
-  --md-default-bg-color:        var(--gray-800);
+  --md-default-bg-color:        var(--gray-900);
   --md-default-fg-color:        var(--gray-500);
   --md-default-fg-color--light:        var(--gray-500);
   --md-default-fg-color--lighter:        var(--gray-300);
@@ -45,7 +45,7 @@
 
   --md-accent-fg-color:                var(--gray-600);
   --md-accent-fg-color--transparent:   var(--gray-800);
-  --md-accent-bg-color:                var(--gray-200);
+  --md-accent-bg-color:                var(--gray-800);
   --md-accent-bg-color--light:         var(--gray-200);
 
   --md-code-fg-color: #ff0000;
